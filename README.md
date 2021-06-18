@@ -8,4 +8,8 @@ In order to run the code you can simply use Colab and run each file whose extens
 
 ![Alt text](/ACGAN_MNIST_1/Results/GIF-ACGAN-MNIST1.gif?raw=true "ACGAN-MNIST-1")
 
+![Alt text](/ACGAN_MNIST_2/Results/GIF-ACGAN-MNIST2.gif?raw=true "ACGAN-MNIST-2")
 
+![Alt text](/ACGAN_CIFAR10_1/Results/GIF-ACGAN-CIFAR10-1.gif?raw=true "ACGAN-CIFAR10-1")
+
+![Alt text](/ACGAN_CIFAR10_2/Results/GIF-ACGAN-CIFAR10-2.gif?raw=true "ACGAN-CIFAR10-2")
